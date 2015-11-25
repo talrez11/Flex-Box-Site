@@ -11,13 +11,40 @@
 		<body class="$language_rtl ? 'rtl' : 'ltr'" cms:eval="class">
 			<h1>Flex Box</h1>
 			<div class="container">
-				<a href="#" class="item1">item 1</a>
-				<a href="#" class="item2" >item 2</a>
-				<a href="#" class="item3">item 3</a>
-				<a href="#" class="item4">item 4</a>
-				<a href="#" class="item5">item 5</a>
-				<a href="#" class="item6">item 6</a>
-				<a href="#" class="item7">item 7</a>
+				<div class="item">
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+				</div>
+
+				<div class="item">
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! 
+						
+				</div>
+
+				<div class="item">
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+				</div>
+
+				<div class="item">
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+					
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit tempora voluptatum eligendi nostrum odio vitae neque alias impedit! Dolorem laboriosam impedit debitis ipsam alias ratione odit rem sed nihil iusto.
+					
+				</div>
+
+
 			</div>
 		</body>
 	</html>

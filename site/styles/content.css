@@ -14,30 +14,24 @@
  div.container {
  	display: flex;
  	flex-direction: row;
- 	flex-wrap: wrap;
+ 	flex-wrap:wrap;
  	justify-content: center;
+
  	margin-left: auto;
  	margin-right: auto;
  	background-color: #bcc2c6;
  	width: 80%;
  }
 
-div.container a{
- 	display: flex-item;
- 	flex-grow:1;
- 	flex-basis:0px;
- 	margin: 5px;
- 	padding: 20px;
- 	text-decoration: none;
- 	color: white;
- 	background-color: #33516f;
+div.item {
+	display: flex-item;
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #33516f;
 }
 
-div.container a:first-of-type {
+div.item:first-of-type {
+	align-self: flex-start;
 	
 }
-
-.item3 {
-	
-}
-
