@@ -1,0 +1,38 @@
+/**
+ * Main Style Sheet
+ * Flex Box
+ *
+ * Copyright (c) 2015. by Way2CU, http://way2cu.com
+ * Authors:Tal Reznic
+ */
+
+ h1 {
+ 	display: block;
+ 	text-align: center;
+ }
+
+ div.container {
+ 	display: flex;
+ 	flex-direction: row;
+ 	flex-wrap: wrap;
+ 	justify-content: flex-start;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background-color: #bcc2c6;
+ 	width: 80%;
+ }
+
+ div.container a{
+ 	display: flex-item;
+ 	margin: 5px;
+ 	padding: 20px;
+ 	text-decoration: none;
+ 	color: white;
+ 	background-color: #33516f;
+ }
+
+
+
+div.container a:nth-of-type(3) {
+ 	margin-right: auto;
+}
